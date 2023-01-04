@@ -4,9 +4,7 @@ Performed Data cleaning, Exploratory data analysis, feature enegineering to exec
 
 About Dataset
 
-Attributes
-
-People
+Attributes:-
 
 ID: Customer's unique identifier
 Year_Birth: Customer's birth year
